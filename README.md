@@ -38,3 +38,7 @@ Evennia's documentation is here:
 https://github.com/evennia/evennia/wiki.
 
 Enjoy!
+
+# Welcome to Through Fall, Fog, and Fire
+
+Content will go here. Someday.
